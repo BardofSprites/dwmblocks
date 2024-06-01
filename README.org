@@ -1,0 +1,13 @@
+#+TITLE: dwmblocks
+
+Modular status bar for dwm written in c.
+This is my personal configuration for it, I take no credit for writing the code.
+The original repository can be found [[https://github.com/torrinfail/dwmblocks][here]].
+
+* Screenshots
+[[file:img/dwmblocks.png]]
+
+[[file:img/fullscreen.png]]
+
+* Modules
+The modules are mostly from [[https://github.com/LukeSmithxyz/voidrice][Luke Smith's]] larb's dotfiles. The pulseaudio and music one is are edited from the [[https://github.com/vivien/i3blocks-contrib][i3blocks-contrib repo]].
